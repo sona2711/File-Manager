@@ -1,0 +1,31 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "This repository is the part of solution nodejs-assignments https://github.com/AlreadyBored/nodejs-assignments",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sona2711/File-Manager.git"
+  },
+  "keywords": [
+    "nodejs",
+    "assignments",
+    "sona2711"
+  ],
+  "author": "sona2711",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sona2711/File-Manager/issues"
+  },
+  "homepage": "https://github.com/sona2711/File-Manager#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7"
+  }
+}
