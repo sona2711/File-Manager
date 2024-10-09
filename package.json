@@ -2,6 +2,7 @@
   "name": "file-manager",
   "version": "1.0.0",
   "description": "This repository is the part of solution nodejs-assignments https://github.com/AlreadyBored/nodejs-assignments",
+  "main":"app.js",
   "engines": {
     "node": ">=20.0.0"
   },
