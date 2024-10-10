@@ -7,8 +7,8 @@
     "node": ">=20.0.0"
   },
   "type": "module",
-  "scripts": {
-    "test": "test"
+ "scripts": {
+  "start": "node src/app.js"
   },
   "repository": {
     "type": "git",
